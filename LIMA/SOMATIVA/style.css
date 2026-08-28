@@ -1,0 +1,174 @@
+body{
+    background-color: rgb(236, 234, 234) 
+}
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:darkslateblue;
+    color: rgb(253, 252, 252);
+    text-align: center;
+    margin: 30;
+    border: 20px solid darkslateblue;
+}
+
+
+header a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+a{
+    color: black;
+}
+
+h2{
+    color:darkslateblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: whitesmoke
+    
+
+}
+section{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: white;
+
+
+}
+h3{
+    color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    
+}
+
+.Desenvolvimento_Web{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: gainsboro;
+    
+}
+
+.Desenvolvimento_de_Sistemas{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: gainsboro;
+    
+}
+
+.Banco_de_dados{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: gainsboro;
+   
+}
+
+.Consultoria_em_Tecnologia{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: gainsboro;
+    
+}
+
+
+.Ana_Souza{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: rgb(236, 234, 234) ;
+    text-align: center;
+}
+
+.Carlos_Oliveira{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: rgb(236, 234, 234) ;
+    text-align: center;
+}
+
+.Mariana_Lima{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: rgb(236, 234, 234) ;
+    text-align: center;
+}
+
+
+.Sistema_de_vendas{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: white;
+    
+}
+
+.Aplicativo_empresarial{
+border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: white;
+    
+}
+
+.Site_Institucional{
+    border: 30px solid whitesmoke;
+    padding: 20px;
+    background-color: white;
+    
+}
+
+#ana{
+    width: 400px;
+    margin: 30px;
+}
+
+#carlos{
+    width: 400px;
+    margin: 30px;
+}
+
+#mariana{
+    width: 400px;
+    margin: 30px;
+}
+
+#vendas{
+    width: 400px;
+    margin: 30px;
+}
+
+#app{
+    width: 400px;
+    margin: 30px;
+}
+
+#site{
+    width: 400px;
+    margin: 30px;
+}
+
+
+footer{
+    background-color: gainsboro;
+    
+}
+
+button{
+    background-color: darkslateblue;
+    color: white;
+}
+
+b{
+    color: darkslateblue;
+}
